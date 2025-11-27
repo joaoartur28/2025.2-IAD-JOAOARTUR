@@ -13,7 +13,7 @@ while True:
         quantidade += 1
     except:
         print("Entrada inválida!")
-        continue  # pula para o próximo número sem parar o programa
+        continue 
 
 if quantidade > 0:
     media = soma / quantidade
