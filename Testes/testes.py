@@ -14,5 +14,3 @@ while True:
     except:
         print("Entrada inválida, digite um valor numérico")
         continue
-
-
